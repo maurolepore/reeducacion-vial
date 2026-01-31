@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:documentosboletinoficial.buenosaires.gob.ar)",
+      "WebFetch(domain:buenosaires.gob.ar)",
+      "WebFetch(domain:creandoconciencia.org.ar)",
+      "WebFetch(domain:sistemasreid.com.ar)",
+      "WebFetch(domain:www.conduccionconsciente.com.ar)",
+      "Bash(curl:*)",
+      "Bash(pdftotext:*)",
+      "Bash(python3:*)",
+      "Bash(brew list:*)",
+      "Bash(pip3 list:*)"
+    ]
+  }
+}
