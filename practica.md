@@ -4,6 +4,25 @@
 
 ## Historial de Exámenes (orden cronológico descendente)
 
+### Examen 5 - 2026-01-31 (Simulador CABA - todas las fuentes)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 16/20 |
+| Porcentaje | 80% |
+
+**Errores:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Profundidad mínima cubiertas | 0,5 mm | **1,6 mm** |
+| Licencia tipo F | Vehículos comerciales | **Personas con discapacidad** |
+| Licencia tipo B (tonelaje) | 2 toneladas | **1,75 toneladas** |
+| Velocidad curvas carreteras | 70 km/h | **60 km/h** |
+
+**Backlog resuelto:** Reducción muerte por casco OMS (42%)
+
+---
+
 ### Examen 4 - 2026-01-31 (Reid)
 
 | Métrica | Valor |
@@ -72,6 +91,7 @@
 
 | Examen | Fecha | Fuente | Score | % |
 |--------|-------|--------|-------|---|
+| 5 | 2026-01-31 | Simulador CABA | 16/20 | 80% |
 | 4 | 2026-01-31 | Reid | 19/20 | 95% |
 | 3 | 2026-01-31 | Simulador CABA | 10/10 | 100% |
 | 2 | 2026-01-31 | Reid+CC | 19/20 | 95% |
