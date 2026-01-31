@@ -8,7 +8,7 @@ Preguntas respondidas incorrectamente en exámenes anteriores. Se eliminan cuand
 
 | ID | Tema | Respuesta incorrecta | Respuesta correcta | Fuente | Fecha agregada |
 |----|------|---------------------|-------------------|--------|----------------|
-| 11 | Renovación licencia mayores 70 años | Cada 2 años | Cada año | Reid | 2026-01-31 |
+| 12 | Reducción muerte por casco (OMS) | 60% | 42% | Reid | 2026-01-31 |
 
 ---
 
@@ -16,6 +16,7 @@ Preguntas respondidas incorrectamente en exámenes anteriores. Se eliminan cuand
 
 | ID | Tema | Fecha resuelta |
 |----|------|----------------|
+| 11 | Renovación licencia mayores 70 años | 2026-01-31 |
 | 1 | VTV obligatoria para autos | 2026-01-31 |
 | 2 | +1% velocidad → probabilidad siniestro fatal | 2026-01-31 |
 | 3 | Límite alcohol rutas nacionales (Ley 27.714) | 2026-01-31 |

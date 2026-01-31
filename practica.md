@@ -4,6 +4,22 @@
 
 ## Historial de Exámenes (orden cronológico descendente)
 
+### Examen 4 - 2026-01-31 (Reid)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 19/20 |
+| Porcentaje | 95% |
+
+**Error:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Reducción muerte por casco (OMS) | 60% | **42%** |
+
+**Backlog resuelto:** Renovación licencia mayores 70 años (cada año)
+
+---
+
 ### Examen 3 - 2026-01-31 (Simulador CABA)
 
 | Métrica | Valor |
@@ -56,6 +72,7 @@
 
 | Examen | Fecha | Fuente | Score | % |
 |--------|-------|--------|-------|---|
+| 4 | 2026-01-31 | Reid | 19/20 | 95% |
 | 3 | 2026-01-31 | Simulador CABA | 10/10 | 100% |
 | 2 | 2026-01-31 | Reid+CC | 19/20 | 95% |
 | 1 | 2026-01-31 | Reid | 12/20 | 60% |
