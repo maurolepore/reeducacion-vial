@@ -8,10 +8,10 @@ Preguntas respondidas incorrectamente en exámenes anteriores. Se eliminan cuand
 
 | ID | Tema | Respuesta incorrecta | Respuesta correcta | Fuente | Fecha agregada |
 |----|------|---------------------|-------------------|--------|----------------|
-| 13 | Profundidad mínima cubiertas | 0,5 mm | 1,6 mm | Simulador | 2026-01-31 |
-| 14 | Licencia tipo F | Vehículos comerciales | Personas con discapacidad | Simulador | 2026-01-31 |
-| 15 | Licencia tipo B (tonelaje) | 2 toneladas | 1,75 toneladas | Simulador | 2026-01-31 |
 | 16 | Velocidad curvas carreteras | 70 km/h | 60 km/h | Simulador | 2026-01-31 |
+| 17 | Declaración Universal DDHH | 1968 | 1948 | Reid+CC | 2026-01-31 |
+| 18 | Plazo renovar licencia vencida | 24 meses | 12 meses | Reid+CC | 2026-01-31 |
+| 19 | Enfoque OMS (error inevitable) | Sistema Preventivo | Sistema Seguro | Reid+CC | 2026-01-31 |
 
 ---
 
@@ -19,6 +19,9 @@ Preguntas respondidas incorrectamente en exámenes anteriores. Se eliminan cuand
 
 | ID | Tema | Fecha resuelta |
 |----|------|----------------|
+| 15 | Licencia tipo B (tonelaje) | 2026-01-31 |
+| 14 | Licencia tipo F | 2026-01-31 |
+| 13 | Profundidad mínima cubiertas | 2026-01-31 |
 | 12 | Reducción muerte por casco (OMS) | 2026-01-31 |
 | 11 | Renovación licencia mayores 70 años | 2026-01-31 |
 | 1 | VTV obligatoria para autos | 2026-01-31 |

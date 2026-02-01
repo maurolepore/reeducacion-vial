@@ -4,6 +4,25 @@
 
 ## Historial de Exámenes (orden cronológico descendente)
 
+### Examen 6 - 2026-01-31 (Reid + Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 16/20 |
+| Porcentaje | 80% |
+
+**Errores:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Declaración Universal DDHH | 1968 | **1948** |
+| Plazo renovar licencia vencida | 24 meses | **12 meses** |
+| Enfoque OMS (error inevitable) | Sistema Preventivo | **Sistema Seguro** |
+| Velocidad curvas carreteras | 70 km/h | **60 km/h** |
+
+**Backlog resuelto:** Profundidad cubiertas (1,6mm), Licencia F (discapacidad), Licencia B (1,75t)
+
+---
+
 ### Examen 5 - 2026-01-31 (Simulador CABA - todas las fuentes)
 
 | Métrica | Valor |
@@ -91,6 +110,7 @@
 
 | Examen | Fecha | Fuente | Score | % |
 |--------|-------|--------|-------|---|
+| 6 | 2026-01-31 | Reid+CC | 16/20 | 80% |
 | 5 | 2026-01-31 | Simulador CABA | 16/20 | 80% |
 | 4 | 2026-01-31 | Reid | 19/20 | 95% |
 | 3 | 2026-01-31 | Simulador CABA | 10/10 | 100% |
