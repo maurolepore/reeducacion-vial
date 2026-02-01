@@ -4,6 +4,60 @@
 
 ## Historial de Exámenes (orden cronológico descendente)
 
+### Examen 6 - 2026-01-31 (Reid + Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 16/20 |
+| Porcentaje | 80% |
+
+**Errores:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Declaración Universal DDHH | 1968 | **1948** |
+| Plazo renovar licencia vencida | 24 meses | **12 meses** |
+| Enfoque OMS (error inevitable) | Sistema Preventivo | **Sistema Seguro** |
+| Velocidad curvas carreteras | 70 km/h | **60 km/h** |
+
+**Backlog resuelto:** Profundidad cubiertas (1,6mm), Licencia F (discapacidad), Licencia B (1,75t)
+
+---
+
+### Examen 5 - 2026-01-31 (Simulador CABA - todas las fuentes)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 16/20 |
+| Porcentaje | 80% |
+
+**Errores:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Profundidad mínima cubiertas | 0,5 mm | **1,6 mm** |
+| Licencia tipo F | Vehículos comerciales | **Personas con discapacidad** |
+| Licencia tipo B (tonelaje) | 2 toneladas | **1,75 toneladas** |
+| Velocidad curvas carreteras | 70 km/h | **60 km/h** |
+
+**Backlog resuelto:** Reducción muerte por casco OMS (42%)
+
+---
+
+### Examen 4 - 2026-01-31 (Reid)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 19/20 |
+| Porcentaje | 95% |
+
+**Error:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Reducción muerte por casco (OMS) | 60% | **42%** |
+
+**Backlog resuelto:** Renovación licencia mayores 70 años (cada año)
+
+---
+
 ### Examen 3 - 2026-01-31 (Simulador CABA)
 
 | Métrica | Valor |
@@ -56,6 +110,9 @@
 
 | Examen | Fecha | Fuente | Score | % |
 |--------|-------|--------|-------|---|
+| 6 | 2026-01-31 | Reid+CC | 16/20 | 80% |
+| 5 | 2026-01-31 | Simulador CABA | 16/20 | 80% |
+| 4 | 2026-01-31 | Reid | 19/20 | 95% |
 | 3 | 2026-01-31 | Simulador CABA | 10/10 | 100% |
 | 2 | 2026-01-31 | Reid+CC | 19/20 | 95% |
 | 1 | 2026-01-31 | Reid | 12/20 | 60% |
