@@ -22,11 +22,17 @@ Genera exámenes de práctica para el curso de reeducación vial de CABA (recupe
    - Resultados al final
    - Usar `*` para notas (ej: `* explicar este concepto`)
 3. Leer `backlog.md` e incluir preguntas pendientes
+4. Leer `practica.md` y listar los temas ya preguntados en exámenes anteriores
+5. Seleccionar preguntas en este orden de prioridad:
+   - **Primero:** temas en backlog (errores previos) — repetir hasta que se acierten
+   - **Segundo:** temas nuevos no aparecidos en practica.md — explorar áreas menos obvias del manual
+   - **Tercero (si no hay suficientes):** reciclar los más antiguos de practica.md
 
 ## Durante
 
 - 20 preguntas, 4 a la vez
 - Mezclar orden (no seguir secuencia del manual)
+- Buscar activamente temas poco explorados del manual (no siempre los mismos "clásicos")
 - 3 opciones por pregunta (a, b, c)
 - Variar posición de respuesta correcta
 - No mostrar resultados parciales
