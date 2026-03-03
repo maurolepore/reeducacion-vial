@@ -9,9 +9,7 @@ Preguntas respondidas incorrectamente en exámenes anteriores. Se eliminan cuand
 | ID | Tema | Respuesta incorrecta | Respuesta correcta | Fuente | Fecha agregada |
 |----|------|---------------------|-------------------|--------|----------------|
 | 16 | Velocidad curvas carreteras | 70 km/h | 60 km/h | Simulador | 2026-01-31 |
-| 17 | Declaración Universal DDHH | 1968 | 1948 | Reid+CC | 2026-01-31 |
-| 18 | Plazo renovar licencia vencida | 24 meses | 12 meses | Reid+CC | 2026-01-31 |
-| 19 | Enfoque OMS (error inevitable) | Sistema Preventivo | Sistema Seguro | Reid+CC | 2026-01-31 |
+| 26 | Costo mundial siniestros anual | 1 billón USD | 518.000 millones USD | Reid+CC | 2026-03-03 |
 
 ---
 
@@ -19,6 +17,15 @@ Preguntas respondidas incorrectamente en exámenes anteriores. Se eliminan cuand
 
 | ID | Tema | Fecha resuelta |
 |----|------|----------------|
+| 25 | Costos siniestros PIB países ricos | 2026-03-03 |
+| 24 | Distribución peso cargas | 2026-03-03 |
+| 23 | Retención infantil grupo 2/3 | 2026-03-03 |
+| 22 | Reducir velocidad 5% → muertes | 2026-03-03 |
+| 21 | VTV obligatoria motovehículos | 2026-03-03 |
+| 20 | Distancia mínima adelantar ciclista | 2026-03-03 |
+| 19 | Enfoque OMS (error inevitable) | 2026-03-03 |
+| 18 | Plazo renovar licencia vencida | 2026-03-03 |
+| 17 | Declaración Universal DDHH | 2026-03-03 |
 | 15 | Licencia tipo B (tonelaje) | 2026-01-31 |
 | 14 | Licencia tipo F | 2026-01-31 |
 | 13 | Profundidad mínima cubiertas | 2026-01-31 |
