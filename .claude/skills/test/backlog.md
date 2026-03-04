@@ -8,12 +8,13 @@ Preguntas respondidas incorrectamente en exámenes anteriores. Se eliminan cuand
 
 | ID | Tema | Respuesta incorrecta | Respuesta correcta | Fuente | Fecha agregada |
 |----|------|---------------------|-------------------|--------|----------------|
-| 33 | Gastos mundiales siniestros anuales | 250 mil millones USD | 518 mil millones USD | Reid+CC | 2026-03-04 |
-| 34 | Riesgo aceptado (definición) | El riesgo que la ley permite | Nivel que persona está dispuesta a asumir conscientemente | Reid+CC | 2026-03-04 |
 
 ---
 
 ## Resueltas
+
+| 33 | Gastos mundiales siniestros anuales | 2026-03-04 |
+| 34 | Riesgo aceptado (definición) | 2026-03-04 |
 
 | ID | Tema | Fecha resuelta |
 |----|------|----------------|

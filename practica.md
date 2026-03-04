@@ -4,6 +4,19 @@
 
 ## Historial de Exámenes (orden cronológico descendente)
 
+### Examen 17 - 2026-03-04 (Reid + Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 20/20 |
+| Porcentaje | 100% |
+
+**Sin errores.**
+
+**Backlog resuelto:** Gastos mundiales siniestros anuales (518 mil millones USD), Riesgo aceptado (nivel que persona está dispuesta a asumir conscientemente)
+
+---
+
 ### Examen 16 - 2026-03-04 (Reid + Creando Conciencia)
 
 | Métrica | Valor |
@@ -275,6 +288,7 @@
 
 | Examen | Fecha | Fuente | Score | % |
 |--------|-------|--------|-------|---|
+| 17 | 2026-03-04 | Reid+CC | 20/20 | 100% |
 | 16 | 2026-03-04 | Reid+CC | 20/20 | 100% |
 | 15 | 2026-03-04 | Creando Conciencia | 19/20 | 95% |
 | 14 | 2026-03-04 | Reid+CC | 18/20 | 90% |
