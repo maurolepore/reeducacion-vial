@@ -8,8 +8,8 @@ Preguntas respondidas incorrectamente en exámenes anteriores. Se eliminan cuand
 
 | ID | Tema | Respuesta incorrecta | Respuesta correcta | Fuente | Fecha agregada |
 |----|------|---------------------|-------------------|--------|----------------|
-| 16 | Velocidad curvas carreteras | 70 km/h | 60 km/h | Simulador | 2026-01-31 |
-| 26 | Costo mundial siniestros anual | 1 billón USD | 518.000 millones USD | Reid+CC | 2026-03-03 |
+| 33 | Gastos mundiales siniestros anuales | 250 mil millones USD | 518 mil millones USD | Reid+CC | 2026-03-04 |
+| 34 | Riesgo aceptado (definición) | El riesgo que la ley permite | Nivel que persona está dispuesta a asumir conscientemente | Reid+CC | 2026-03-04 |
 
 ---
 
@@ -17,6 +17,16 @@ Preguntas respondidas incorrectamente en exámenes anteriores. Se eliminan cuand
 
 | ID | Tema | Fecha resuelta |
 |----|------|----------------|
+| 35 | Velocidad mínima autopista (examen 15) | 2026-03-04 |
+| 36 | Paso a nivel sin barreras | 2026-03-04 |
+| 31 | Acciones en siniestro sin heridos | 2026-03-04 |
+| 32 | Velocidad mínima en autopista | 2026-03-04 |
+| 30 | Cajones amarillos (función) | 2026-03-04 |
+| 28 | Capacidad de un colectivo | 2026-03-03 |
+| 29 | Ley 27.714 Alcohol Cero (vigencia) | 2026-03-03 |
+| 27 | Cascos: reducción lesiones graves (OMS) | 2026-03-03 |
+| 16 | Velocidad curvas carreteras | 2026-03-03 |
+| 26 | Costo mundial siniestros anual | 2026-03-03 |
 | 25 | Costos siniestros PIB países ricos | 2026-03-03 |
 | 24 | Distribución peso cargas | 2026-03-03 |
 | 23 | Retención infantil grupo 2/3 | 2026-03-03 |

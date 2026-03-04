@@ -4,6 +4,118 @@
 
 ## Historial de Exámenes (orden cronológico descendente)
 
+### Examen 16 - 2026-03-04 (Reid + Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 20/20 |
+| Porcentaje | 100% |
+
+**Sin errores.**
+
+**Backlog resuelto:** Velocidad mínima en autopista (60 km/h), Paso a nivel sin barreras (detenerse, mirar, escuchar)
+
+---
+
+### Examen 15 - 2026-03-04 (Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 19/20 |
+| Porcentaje | 95% |
+
+**Errores:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Paso a nivel sin barreras | Disminuir velocidad y continuar | **Detenerse, mirar, escuchar, cruzar precaución** |
+
+**Backlog resuelto:** Acciones en siniestro sin heridos, Velocidad mínima en autopista
+
+---
+
+### Examen 14 - 2026-03-04 (Reid + Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 18/20 |
+| Porcentaje | 90% |
+
+**Errores:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Gastos mundiales siniestros anuales | 250 mil millones USD | **518 mil millones USD** |
+| Riesgo aceptado (definición) | El riesgo que la ley permite | **Nivel que persona está dispuesta a asumir conscientemente** |
+
+---
+
+### Examen 13 - 2026-03-04 (Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 18/20 |
+| Porcentaje | 90% |
+
+**Errores:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Acciones en siniestro sin heridos | Mover vehículos | **Señalizar, verificar ocupantes, contactar autoridades** |
+| Velocidad mínima en autopista | Mitad velocidad máxima | **60 km/h** |
+
+**Backlog resuelto:** Cajones amarillos (función)
+
+---
+
+### Examen 12 - 2026-03-03 (Reid + Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 19/20 |
+| Porcentaje | 95% |
+
+**Error:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Cajones amarillos (función) | Zonas de carga y descarga | **Espacio libre ascenso/descenso en paradas de colectivos** |
+
+**Backlog resuelto:** Capacidad colectivo (40-50 personas), Ley 27.714 Alcohol Cero (mayo 2023)
+
+---
+
+### Examen 11 - 2026-03-03 (Reid + Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 18/20 |
+| Porcentaje | 90% |
+
+**Errores:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Capacidad de un colectivo | 60-80 personas | **40-50 personas** |
+| Ley 27.714 Alcohol Cero (vigencia) | Enero 2022 | **Mayo 2023** |
+
+**Backlog resuelto:** Cascos lesiones graves OMS (69%), Velocidad curvas carreteras (60 km/h)
+
+---
+
+### Examen 10 - 2026-03-03 (Reid + Creando Conciencia)
+
+| Métrica | Valor |
+|---------|-------|
+| Correctas | 17/20 |
+| Porcentaje | 85% |
+
+**Errores:**
+| Tema | Tu respuesta | Correcta |
+|------|--------------|----------|
+| Cascos: reducción lesiones graves (OMS) | 42% | **69%** |
+| Capacidad de un colectivo | 60-80 personas | **40-50 personas** |
+| Ley 27.714 Alcohol Cero (vigencia) | Enero 2022 | **Mayo 2023** |
+
+**Backlog resuelto:** Costo mundial siniestros (518.000 millones USD)
+
+---
+
 ### Examen 9 - 2026-03-03 (Reid + Creando Conciencia)
 
 | Métrica | Valor |
@@ -163,6 +275,13 @@
 
 | Examen | Fecha | Fuente | Score | % |
 |--------|-------|--------|-------|---|
+| 16 | 2026-03-04 | Reid+CC | 20/20 | 100% |
+| 15 | 2026-03-04 | Creando Conciencia | 19/20 | 95% |
+| 14 | 2026-03-04 | Reid+CC | 18/20 | 90% |
+| 13 | 2026-03-04 | Creando Conciencia | 18/20 | 90% |
+| 12 | 2026-03-03 | Reid+CC | 19/20 | 95% |
+| 11 | 2026-03-03 | Reid+CC | 18/20 | 90% |
+| 10 | 2026-03-03 | Reid+CC | 17/20 | 85% |
 | 9 | 2026-03-03 | Reid+CC | 19/20 | 95% |
 | 8 | 2026-03-03 | Reid+CC | 15/20 | 75% |
 | 7 | 2026-03-03 | Reid+CC | 18/20 | 90% |
